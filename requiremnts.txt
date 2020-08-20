@@ -1,0 +1,8 @@
+falcon==1.4.1
+future==0.17.1
+gunicorn==19.9.0
+numpy==1.16.2
+onnxruntime==1.1.0
+protobuf==3.7.1
+pytest==5.3.2
+scikit-learn==0.21.3
